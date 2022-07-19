@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilomrey
 - 👀 I’m interested in EdTech Startups
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on any kind of side projects.
 - 📫 Reach me our on suneel.vgi@gmail.com
 
